@@ -1,0 +1,5 @@
+top:
+	tar android_source/external
+	add Android.mk
+	mm -B
+	find i2c tools about;
